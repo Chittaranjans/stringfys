@@ -1,0 +1,26 @@
+/* CSS */
+
+.bg-body-tertiary {
+  background-color: #f8f9fa;
+}
+
+.navbar-brand {
+  color: #007bff;
+  font-size: 1.5em;
+}
+
+.nav-link {
+  color: #6c757d;
+}
+
+.nav-link:hover {
+  color: #007bff;
+}
+
+.nav-dropdown {
+  color: #6c757d;
+}
+
+.nav-dropdown:hover {
+  color: #007bff;
+}
